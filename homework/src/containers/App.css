@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url("https://c.tenor.com/DF-U8SDlaEsAAAAC/sky-water.gif");
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size: cover;
+  height: 100vh;
+  overflow: hidden;
+}
